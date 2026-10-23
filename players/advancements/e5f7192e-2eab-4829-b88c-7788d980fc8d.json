@@ -7,10 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-10-21 16:27:43 +0200",
       "minecraft:beach": "2024-11-10 20:51:01 +0100",
       "minecraft:dark_forest": "2024-11-03 19:18:31 +0100",
       "minecraft:forest": "2024-10-26 17:18:01 +0200",
       "minecraft:taiga": "2024-10-26 17:17:48 +0200",
+      "minecraft:deep_ocean": "2026-10-21 16:33:53 +0200",
       "minecraft:river": "2024-10-26 17:16:34 +0200",
       "minecraft:stony_shore": "2024-11-03 18:52:30 +0100",
       "minecraft:lush_caves": "2024-11-10 20:06:23 +0100",
@@ -2923,6 +2925,24 @@
   "minecraft:recipes/transportation/poplar_boat": {
     "criteria": {
       "in_water": "2026-10-18 13:35:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-10-21 16:24:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-10-21 16:26:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/poplar_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-10-21 16:26:56 +0200"
     },
     "done": true
   },
